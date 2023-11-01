@@ -112,5 +112,5 @@
 # 感谢
 
 JACK
-&
+<br />
 ChatGPT
