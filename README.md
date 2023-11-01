@@ -7,8 +7,8 @@
 1. 下载并安装 *Keyboard Maestro*（可以跳过新手指引）
    <center><img src="https://raw.githubusercontent.com/Lavan1874/markdownimage/main/kmicon-1.tiff.png" style="zoom:25%;" /><center>
 
-2. 授予其相关权限
-   必须授予的为 Accessibility Permission （无障碍权限）
+2. 授予其相关权限<br />
+   必须授予的为 Accessibility Permission （无障碍权限）<br />
    权限授予情况可以在软件主界面按下`command`+`,`打开偏好设置，再进入 Security 选项卡查看
 
    <center><img src="https://raw.githubusercontent.com/Lavan1874/markdownimage/main/Security%20tab.png" style="zoom:35%;" /><center>
@@ -17,7 +17,7 @@
 
 4. 在其命名输入框下方找到`Available in all applications.`选项，点击它并在新出现的选项列表中选择`Available in these applications:`
 
-5. 点击下方绿色`+`，在新出现的选项列表中选择`图书`
+5. 点击下方绿色`+`，在新出现的选项列表中选择`图书`<br />
    （若没有显示图书选项，点击`Other...`选项手动选择）
    <center><img src="https://raw.githubusercontent.com/Lavan1874/markdownimage/main/Groups_AppleBook_%E5%9B%BE%E4%B9%A6.png" style="zoom:28%;" /><center>
 
@@ -29,10 +29,10 @@
 
 9. 找到并点击下方被虚线框住的`No Action`，此时左侧会从下方弹出可供选择的 Actions 选项
 
-10. 点击最左侧 Categories 栏中的`Clipboard`，在 Actions 复选栏中双击`Copy`
+10. 点击最左侧 Categories 栏中的`Clipboard`，在 Actions 复选栏中双击`Copy`<br />
     此时可在右侧看到原被虚线框住的`No Action`被新出现的被实线框住的`Copy`取代
 
-11. 点击最左侧 Categories 栏中的`Execute`，在 Actions 复选栏中双击`Execute an AppleScript`
+11. 点击最左侧 Categories 栏中的`Execute`，在 Actions 复选栏中双击`Execute an AppleScript`<br />
     此时在右侧原有实线`Copy`框下方出现一新`Execute AppleScript`框，并且光标会自动定位到输入框中
 
     <center><img src="https://raw.githubusercontent.com/Lavan1874/markdownimage/main/No%20Action_%20Copy_Execute%20an%20AppleScript.png" style="zoom:28%;" /><center>
